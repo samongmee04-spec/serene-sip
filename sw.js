@@ -1,7 +1,7 @@
 // Serene Sip service worker
 // Network-first for app files (so updates on GitHub show up right away),
 // falling back to cache when offline. Bump VERSION when you upload a new build.
-const VERSION = 'serene-sip-v1.0.0';
+const VERSION = 'serene-sip-v1.0.1';
 const CORE = ['./', './index.html', './app.js', './app.css', './manifest.webmanifest',
   './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'];
 
